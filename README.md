@@ -1,2 +1,2 @@
-# pic
-makdown pic
+# 工程说明
+该工程用于存储图片，以用于编写markdown文档。
